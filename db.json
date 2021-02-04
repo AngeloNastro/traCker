@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor",
+      "day": "10 feb 2020",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Tennis match",
+      "day": "12 feb 2020",
+      "reminder": false
+    }
+  ]
+}
